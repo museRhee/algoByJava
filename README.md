@@ -1,1 +1,1 @@
-# Solving alogrithm problem by Java
+Solving alogrithm problem by Java
